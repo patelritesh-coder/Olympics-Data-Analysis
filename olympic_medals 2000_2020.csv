@@ -1,0 +1,507 @@
+Year,Country_Name,Host_city,Host_country,Gold,Silver,Bronze,Total_Medals
+2020,United States,Tokyo,Japan,39,41,33,113
+2020,China,Tokyo,Japan,38,32,18,88
+2020,Japan,Tokyo,Japan,27,14,17,58
+2020,Great Britain,Tokyo,Japan,22,21,22,65
+2020,Russia,Tokyo,Japan,20,28,23,71
+2020,Australia,Tokyo,Japan,17,7,22,46
+2020,Netherlands,Tokyo,Japan,10,12,14,36
+2020,France,Tokyo,Japan,10,12,11,33
+2020,Germany,Tokyo,Japan,10,11,16,37
+2020,Italy,Tokyo,Japan,10,10,20,40
+2020,Canada,Tokyo,Japan,7,6,11,24
+2020,Brazil,Tokyo,Japan,7,6,8,21
+2020,New Zealand,Tokyo,Japan,7,6,7,20
+2020,Cuba,Tokyo,Japan,7,3,5,15
+2020,Hungary,Tokyo,Japan,6,7,7,20
+2020,South Korea,Tokyo,Japan,6,4,10,20
+2020,Poland,Tokyo,Japan,4,5,5,14
+2020,Czech Republic,Tokyo,Japan,4,4,3,11
+2020,Kenya,Tokyo,Japan,4,4,2,10
+2020,Norway,Tokyo,Japan,4,2,2,8
+2020,Jamaica,Tokyo,Japan,4,1,4,9
+2020,Spain,Tokyo,Japan,3,8,6,17
+2020,Sweden,Tokyo,Japan,3,6,0,9
+2020,Switzerland,Tokyo,Japan,3,4,6,13
+2020,Denmark,Tokyo,Japan,3,4,4,11
+2020,Croatia,Tokyo,Japan,3,3,2,8
+2020,Iran,Tokyo,Japan,3,2,2,7
+2020,Serbia,Tokyo,Japan,3,1,5,9
+2020,Belgium,Tokyo,Japan,3,1,3,7
+2020,Bulgaria,Tokyo,Japan,3,1,2,6
+2020,Slovenia,Tokyo,Japan,3,1,1,5
+2020,Uzbekistan,Tokyo,Japan,3,0,2,5
+2020,Georgia,Tokyo,Japan,2,5,1,8
+2020,Chinese Taipei,Tokyo,Japan,2,4,6,12
+2020,Turkey,Tokyo,Japan,2,2,9,13
+2020,Greece,Tokyo,Japan,2,1,1,4
+2020,Uganda,Tokyo,Japan,2,1,1,4
+2020,Ecuador,Tokyo,Japan,2,1,0,3
+2020,Ireland,Tokyo,Japan,2,0,2,4
+2020,Israel,Tokyo,Japan,2,0,2,4
+2020,Qatar,Tokyo,Japan,2,0,1,3
+2020,Bahamas,Tokyo,Japan,2,0,0,2
+2020,Kosovo,Tokyo,Japan,2,0,0,2
+2020,Ukraine,Tokyo,Japan,1,6,12,19
+2020,Belarus,Tokyo,Japan,1,3,3,7
+2020,Romania,Tokyo,Japan,1,3,0,4
+2020,Venezuela,Tokyo,Japan,1,3,0,4
+2020,India,Tokyo,Japan,1,2,4,7
+2020,Hong Kong,Tokyo,Japan,1,2,3,6
+2020,Philippines,Tokyo,Japan,1,2,1,4
+2020,Slovakia,Tokyo,Japan,1,2,1,4
+2020,South Africa,Tokyo,Japan,1,2,0,3
+2020,Austria,Tokyo,Japan,1,1,5,7
+2020,Egypt,Tokyo,Japan,1,1,4,6
+2020,Indonesia,Tokyo,Japan,1,1,3,5
+2020,Ethiopia,Tokyo,Japan,1,1,2,4
+2020,Portugal,Tokyo,Japan,1,1,2,4
+2020,Tunisia,Tokyo,Japan,1,1,0,2
+2020,Estonia,Tokyo,Japan,1,0,1,2
+2020,Fiji,Tokyo,Japan,1,0,1,2
+2020,Latvia,Tokyo,Japan,1,0,1,2
+2020,Thailand,Tokyo,Japan,1,0,1,2
+2020,Bermuda,Tokyo,Japan,1,0,0,1
+2020,Morocco,Tokyo,Japan,1,0,0,1
+2020,Puerto Rico,Tokyo,Japan,1,0,0,1
+2020,Colombia,Tokyo,Japan,0,4,1,5
+2020,Azerbaijan,Tokyo,Japan,0,3,4,7
+2020,Dominican Republic,Tokyo,Japan,0,3,2,5
+2020,Armenia,Tokyo,Japan,0,2,2,4
+2020,Kyrgyzstan,Tokyo,Japan,0,2,1,3
+2020,Mongolia,Tokyo,Japan,0,1,3,4
+2020,Argentina,Tokyo,Japan,0,1,2,3
+2020,San Marino,Tokyo,Japan,0,1,2,3
+2020,Jordan,Tokyo,Japan,0,1,1,2
+2020,Malaysia,Tokyo,Japan,0,1,1,2
+2020,Nigeria,Tokyo,Japan,0,1,1,2
+2020,Bahrain,Tokyo,Japan,0,1,0,1
+2020,Lithuania,Tokyo,Japan,0,1,0,1
+2020,Namibia,Tokyo,Japan,0,1,0,1
+2020,North Macedonia,Tokyo,Japan,0,1,0,1
+2020,Saudi Arabia,Tokyo,Japan,0,1,0,1
+2020,Turkmenistan,Tokyo,Japan,0,1,0,1
+2020,Kazakhstan,Tokyo,Japan,0,0,8,8
+2020,Mexico,Tokyo,Japan,0,0,4,4
+2020,Finland,Tokyo,Japan,0,0,2,2
+2020,Botswana,Tokyo,Japan,0,0,1,1
+2020,Burkina Faso,Tokyo,Japan,0,0,1,1
+2020,Ghana,Tokyo,Japan,0,0,1,1
+2020,Grenada,Tokyo,Japan,0,0,1,1
+2020,Ivory Coast,Tokyo,Japan,0,0,1,1
+2020,Kuwait,Tokyo,Japan,0,0,1,1
+2020,Moldova,Tokyo,Japan,0,0,1,1
+2020,Syria,Tokyo,Japan,0,0,1,1
+2016,United States,Rio de Janeiro,Brazil,46,37,38,121
+2016,Great Britain,Rio de Janeiro,Brazil,27,23,17,67
+2016,China,Rio de Janeiro,Brazil,26,18,26,70
+2016,Russia,Rio de Janeiro,Brazil,19,17,20,56
+2016,Germany,Rio de Janeiro,Brazil,17,10,15,42
+2016,Japan,Rio de Janeiro,Brazil,12,8,21,41
+2016,France,Rio de Janeiro,Brazil,10,18,14,42
+2016,South Korea,Rio de Janeiro,Brazil,9,3,9,21
+2016,Italy,Rio de Janeiro,Brazil,8,12,8,28
+2016,Australia,Rio de Janeiro,Brazil,8,11,10,29
+2016,Netherlands,Rio de Janeiro,Brazil,8,7,4,19
+2016,Hungary,Rio de Janeiro,Brazil,8,3,4,15
+2016,Brazil,Rio de Janeiro,Brazil,7,6,6,19
+2016,Spain,Rio de Janeiro,Brazil,7,4,6,17
+2016,Kenya,Rio de Janeiro,Brazil,6,6,1,13
+2016,Jamaica,Rio de Janeiro,Brazil,6,3,2,11
+2016,Croatia,Rio de Janeiro,Brazil,5,3,2,10
+2016,Cuba,Rio de Janeiro,Brazil,5,2,4,11
+2016,New Zealand,Rio de Janeiro,Brazil,4,9,5,18
+2016,Canada,Rio de Janeiro,Brazil,4,3,15,22
+2016,Uzbekistan,Rio de Janeiro,Brazil,4,2,7,13
+2016,Kazakhstan,Rio de Janeiro,Brazil,3,5,10,18
+2016,Colombia,Rio de Janeiro,Brazil,3,2,3,8
+2016,Switzerland,Rio de Janeiro,Brazil,3,2,2,7
+2016,Iran,Rio de Janeiro,Brazil,3,1,4,8
+2016,Greece,Rio de Janeiro,Brazil,3,1,2,6
+2016,Argentina,Rio de Janeiro,Brazil,3,1,0,4
+2016,Denmark,Rio de Janeiro,Brazil,2,6,7,15
+2016,Sweden,Rio de Janeiro,Brazil,2,6,3,11
+2016,South Africa,Rio de Janeiro,Brazil,2,6,2,10
+2016,Ukraine,Rio de Janeiro,Brazil,2,5,4,11
+2016,Serbia,Rio de Janeiro,Brazil,2,4,2,8
+2016,Poland,Rio de Janeiro,Brazil,2,3,6,11
+2016,North Korea,Rio de Janeiro,Brazil,2,3,2,7
+2016,Belgium,Rio de Janeiro,Brazil,2,2,2,6
+2016,Thailand,Rio de Janeiro,Brazil,2,2,2,6
+2016,Slovakia,Rio de Janeiro,Brazil,2,2,0,4
+2016,Georgia,Rio de Janeiro,Brazil,2,1,4,7
+2016,Azerbaijan,Rio de Janeiro,Brazil,1,7,10,18
+2016,Belarus,Rio de Janeiro,Brazil,1,4,4,9
+2016,Turkey,Rio de Janeiro,Brazil,1,3,4,8
+2016,Armenia,Rio de Janeiro,Brazil,1,3,0,4
+2016,Czech Republic,Rio de Janeiro,Brazil,1,2,7,10
+2016,Ethiopia,Rio de Janeiro,Brazil,1,2,5,8
+2016,Slovenia,Rio de Janeiro,Brazil,1,2,1,4
+2016,Indonesia,Rio de Janeiro,Brazil,1,2,0,3
+2016,Romania,Rio de Janeiro,Brazil,1,1,2,4
+2016,Bahrain,Rio de Janeiro,Brazil,1,1,0,2
+2016,Vietnam,Rio de Janeiro,Brazil,1,1,0,2
+2016,Chinese Taipei,Rio de Janeiro,Brazil,1,0,2,3
+2016,Bahamas,Rio de Janeiro,Brazil,1,0,1,2
+2016,Independent Olympic Athletes,Rio de Janeiro,Brazil,1,0,1,2
+2016,Ivory Coast,Rio de Janeiro,Brazil,1,0,1,2
+2016,Fiji,Rio de Janeiro,Brazil,1,0,0,1
+2016,Jordan,Rio de Janeiro,Brazil,1,0,0,1
+2016,Kosovo,Rio de Janeiro,Brazil,1,0,0,1
+2016,Puerto Rico,Rio de Janeiro,Brazil,1,0,0,1
+2016,Singapore,Rio de Janeiro,Brazil,1,0,0,1
+2016,Tajikistan,Rio de Janeiro,Brazil,1,0,0,1
+2016,Malaysia,Rio de Janeiro,Brazil,0,4,1,5
+2016,Mexico,Rio de Janeiro,Brazil,0,3,2,5
+2016,Venezuela,Rio de Janeiro,Brazil,0,2,1,3
+2016,Algeria,Rio de Janeiro,Brazil,0,2,0,2
+2016,Ireland,Rio de Janeiro,Brazil,0,2,0,2
+2016,Lithuania,Rio de Janeiro,Brazil,0,1,3,4
+2016,Bulgaria,Rio de Janeiro,Brazil,0,1,2,3
+2016,India,Rio de Janeiro,Brazil,0,1,1,2
+2016,Mongolia,Rio de Janeiro,Brazil,0,1,1,2
+2016,Burundi,Rio de Janeiro,Brazil,0,1,0,1
+2016,Grenada,Rio de Janeiro,Brazil,0,1,0,1
+2016,Niger,Rio de Janeiro,Brazil,0,1,0,1
+2016,Philippines,Rio de Janeiro,Brazil,0,1,0,1
+2016,Qatar,Rio de Janeiro,Brazil,0,1,0,1
+2016,Norway,Rio de Janeiro,Brazil,0,0,4,4
+2016,Egypt,Rio de Janeiro,Brazil,0,0,3,3
+2016,Tunisia,Rio de Janeiro,Brazil,0,0,3,3
+2016,Israel,Rio de Janeiro,Brazil,0,0,2,2
+2016,Austria,Rio de Janeiro,Brazil,0,0,1,1
+2016,Dominican Republic,Rio de Janeiro,Brazil,0,0,1,1
+2016,Estonia,Rio de Janeiro,Brazil,0,0,1,1
+2016,Finland,Rio de Janeiro,Brazil,0,0,1,1
+2016,Morocco,Rio de Janeiro,Brazil,0,0,1,1
+2016,Nigeria,Rio de Janeiro,Brazil,0,0,1,1
+2016,Portugal,Rio de Janeiro,Brazil,0,0,1,1
+2016,Trinidad and Tobago,Rio de Janeiro,Brazil,0,0,1,1
+2016,United Arab Emirates,Rio de Janeiro,Brazil,0,0,1,1
+2012,United States,London,Great Britain,46,28,30,104
+2012,China,London,Great Britain,38,31,22,91
+2012,Great Britain,London,Great Britain,29,17,19,65
+2012,Russia,London,Great Britain,20,20,28,68
+2012,South Korea,London,Great Britain,13,9,8,30
+2012,Germany,London,Great Britain,11,20,13,44
+2012,France,London,Great Britain,11,11,13,35
+2012,Australia,London,Great Britain,8,15,12,35
+2012,Italy,London,Great Britain,8,9,11,28
+2012,Hungary,London,Great Britain,8,4,6,18
+2012,Japan,London,Great Britain,7,14,17,38
+2012,Iran,London,Great Britain,7,5,1,13
+2012,Netherlands,London,Great Britain,6,6,8,20
+2012,New Zealand,London,Great Britain,6,2,5,13
+2012,Ukraine,London,Great Britain,5,4,10,19
+2012,Cuba,London,Great Britain,5,3,7,15
+2012,Spain,London,Great Britain,4,10,5,19
+2012,Jamaica,London,Great Britain,4,5,3,12
+2012,Czech Republic,London,Great Britain,4,3,4,11
+2012,South Africa,London,Great Britain,4,1,1,6
+2012,North Korea,London,Great Britain,4,0,3,7
+2012,Brazil,London,Great Britain,3,5,9,17
+2012,Poland,London,Great Britain,3,2,6,11
+2012,Ethiopia,London,Great Britain,3,2,3,8
+2012,Kazakhstan,London,Great Britain,3,1,7,11
+2012,Croatia,London,Great Britain,3,1,2,6
+2012,Canada,London,Great Britain,2,6,10,18
+2012,Belarus,London,Great Britain,2,5,3,10
+2012,Kenya,London,Great Britain,2,4,7,13
+2012,Denmark,London,Great Britain,2,4,3,9
+2012,Romania,London,Great Britain,2,4,1,7
+2012,Azerbaijan,London,Great Britain,2,2,5,9
+2012,Switzerland,London,Great Britain,2,2,0,4
+2012,Norway,London,Great Britain,2,1,1,4
+2012,Lithuania,London,Great Britain,2,0,3,5
+2012,Tunisia,London,Great Britain,2,0,1,3
+2012,Sweden,London,Great Britain,1,4,3,8
+2012,Colombia,London,Great Britain,1,3,5,9
+2012,Mexico,London,Great Britain,1,3,4,8
+2012,Georgia,London,Great Britain,1,2,3,6
+2012,Ireland,London,Great Britain,1,1,4,6
+2012,Argentina,London,Great Britain,1,1,2,4
+2012,Serbia,London,Great Britain,1,1,2,4
+2012,Slovenia,London,Great Britain,1,1,2,4
+2012,Trinidad and Tobago,London,Great Britain,1,1,2,4
+2012,Turkey,London,Great Britain,1,1,1,3
+2012,Dominican Republic,London,Great Britain,1,1,0,2
+2012,Chinese Taipei,London,Great Britain,1,0,1,2
+2012,Latvia,London,Great Britain,1,0,1,2
+2012,Algeria,London,Great Britain,1,0,0,1
+2012,Bahamas,London,Great Britain,1,0,0,1
+2012,Bahrain,London,Great Britain,1,0,0,1
+2012,Grenada,London,Great Britain,1,0,0,1
+2012,Uganda,London,Great Britain,1,0,0,1
+2012,Venezuela,London,Great Britain,1,0,0,1
+2012,Egypt,London,Great Britain,0,3,1,4
+2012,India,London,Great Britain,0,2,4,6
+2012,Mongolia,London,Great Britain,0,2,3,5
+2012,Thailand,London,Great Britain,0,2,2,4
+2012,Bulgaria,London,Great Britain,0,2,1,3
+2012,Finland,London,Great Britain,0,2,1,3
+2012,Indonesia,London,Great Britain,0,2,1,3
+2012,Slovakia,London,Great Britain,0,1,3,4
+2012,Belgium,London,Great Britain,0,1,2,3
+2012,Armenia,London,Great Britain,0,1,1,2
+2012,Estonia,London,Great Britain,0,1,1,2
+2012,Malaysia,London,Great Britain,0,1,1,2
+2012,Puerto Rico,London,Great Britain,0,1,1,2
+2012,Botswana,London,Great Britain,0,1,0,1
+2012,Cyprus,London,Great Britain,0,1,0,1
+2012,Gabon,London,Great Britain,0,1,0,1
+2012,Guatemala,London,Great Britain,0,1,0,1
+2012,Montenegro,London,Great Britain,0,1,0,1
+2012,Portugal,London,Great Britain,0,1,0,1
+2012,Uzbekistan,London,Great Britain,0,0,3,3
+2012,Greece,London,Great Britain,0,0,2,2
+2012,Qatar,London,Great Britain,0,0,2,2
+2012,Singapore,London,Great Britain,0,0,2,2
+2012,Afghanistan,London,Great Britain,0,0,1,1
+2012,Cameroon,London,Great Britain,0,0,1,1
+2012,Hong Kong,London,Great Britain,0,0,1,1
+2012,Kuwait,London,Great Britain,0,0,1,1
+2012,Morocco,London,Great Britain,0,0,1,1
+2012,Saudi Arabia,London,Great Britain,0,0,1,1
+2012,Tajikistan,London,Great Britain,0,0,1,1
+2012,Vietnam,London,Great Britain,0,0,1,1
+2008,China,Beijing,China,48,22,30,100
+2008,United States,Beijing,China,36,39,37,112
+2008,Russia,Beijing,China,24,13,23,60
+2008,Great Britain,Beijing,China,19,13,19,51
+2008,Germany,Beijing,China,16,11,14,41
+2008,Australia,Beijing,China,14,15,17,46
+2008,South Korea,Beijing,China,13,11,8,32
+2008,Japan,Beijing,China,9,8,8,25
+2008,Italy,Beijing,China,8,9,10,27
+2008,France,Beijing,China,7,16,20,43
+2008,Netherlands,Beijing,China,7,5,4,16
+2008,Ukraine,Beijing,China,7,4,11,22
+2008,Kenya,Beijing,China,6,4,6,16
+2008,Spain,Beijing,China,5,11,3,19
+2008,Jamaica,Beijing,China,5,4,2,11
+2008,Poland,Beijing,China,4,5,2,11
+2008,Ethiopia,Beijing,China,4,2,1,7
+2008,Romania,Beijing,China,4,1,4,9
+2008,Cuba,Beijing,China,3,10,17,30
+2008,Canada,Beijing,China,3,9,8,20
+2008,Hungary,Beijing,China,3,5,2,10
+2008,Norway,Beijing,China,3,5,1,9
+2008,Brazil,Beijing,China,3,4,10,17
+2008,Belarus,Beijing,China,3,4,7,14
+2008,Czech Republic,Beijing,China,3,3,1,7
+2008,Slovakia,Beijing,China,3,3,0,6
+2008,New Zealand,Beijing,China,3,2,4,9
+2008,Georgia,Beijing,China,3,2,2,7
+2008,Kazakhstan,Beijing,China,2,3,4,9
+2008,Denmark,Beijing,China,2,2,3,7
+2008,North Korea,Beijing,China,2,2,2,6
+2008,Thailand,Beijing,China,2,2,2,6
+2008,Mongolia,Beijing,China,2,2,0,4
+2008,Switzerland,Beijing,China,2,1,4,7
+2008,Argentina,Beijing,China,2,0,4,6
+2008,Mexico,Beijing,China,2,0,2,4
+2008,Belgium,Beijing,China,2,0,0,2
+2008,Zimbabwe,Beijing,China,1,3,0,4
+2008,Slovenia,Beijing,China,1,2,2,5
+2008,Azerbaijan,Beijing,China,1,1,4,6
+2008,Indonesia,Beijing,China,1,1,4,6
+2008,Bulgaria,Beijing,China,1,1,3,5
+2008,Turkey,Beijing,China,1,1,3,5
+2008,Chinese Taipei,Beijing,China,1,1,2,4
+2008,Finland,Beijing,China,1,1,2,4
+2008,Latvia,Beijing,China,1,1,1,3
+2008,Dominican Republic,Beijing,China,1,1,0,2
+2008,Estonia,Beijing,China,1,1,0,2
+2008,Portugal,Beijing,China,1,1,0,2
+2008,Trinidad and Tobago,Beijing,China,1,1,0,2
+2008,India,Beijing,China,1,0,2,3
+2008,Iran,Beijing,China,1,0,1,2
+2008,Cameroon,Beijing,China,1,0,0,1
+2008,Panama,Beijing,China,1,0,0,1
+2008,Tunisia,Beijing,China,1,0,0,1
+2008,Sweden,Beijing,China,0,4,1,5
+2008,Lithuania,Beijing,China,0,3,2,5
+2008,Nigeria,Beijing,China,0,3,2,5
+2008,Croatia,Beijing,China,0,2,3,5
+2008,Colombia,Beijing,China,0,2,1,3
+2008,Greece,Beijing,China,0,2,1,3
+2008,Armenia,Beijing,China,0,1,4,5
+2008,Uzbekistan,Beijing,China,0,1,3,4
+2008,Austria,Beijing,China,0,1,2,3
+2008,Ireland,Beijing,China,0,1,2,3
+2008,Kyrgyzstan,Beijing,China,0,1,2,3
+2008,Serbia,Beijing,China,0,1,2,3
+2008,Algeria,Beijing,China,0,1,1,2
+2008,Bahamas,Beijing,China,0,1,1,2
+2008,Morocco,Beijing,China,0,1,1,2
+2008,Tajikistan,Beijing,China,0,1,1,2
+2008,Chile,Beijing,China,0,1,0,1
+2008,Ecuador,Beijing,China,0,1,0,1
+2008,Iceland,Beijing,China,0,1,0,1
+2008,Malaysia,Beijing,China,0,1,0,1
+2008,Samoa,Beijing,China,0,1,0,1
+2008,Singapore,Beijing,China,0,1,0,1
+2008,South Africa,Beijing,China,0,1,0,1
+2008,Sudan,Beijing,China,0,1,0,1
+2008,Vietnam,Beijing,China,0,1,0,1
+2008,Egypt,Beijing,China,0,0,2,2
+2008,Afghanistan,Beijing,China,0,0,1,1
+2008,Israel,Beijing,China,0,0,1,1
+2008,Mauritius,Beijing,China,0,0,1,1
+2008,Moldova,Beijing,China,0,0,1,1
+2008,Togo,Beijing,China,0,0,1,1
+2008,Venezuela,Beijing,China,0,0,1,1
+2004,United States,Athens,Greece,36,39,26,101
+2004,China,Athens,Greece,32,17,14,63
+2004,Russia,Athens,Greece,28,26,36,90
+2004,Australia,Athens,Greece,17,16,17,50
+2004,Japan,Athens,Greece,16,9,12,37
+2004,Germany,Athens,Greece,13,16,20,49
+2004,France,Athens,Greece,11,9,13,33
+2004,Italy,Athens,Greece,10,11,11,32
+2004,South Korea,Athens,Greece,9,12,9,30
+2004,Great Britain,Athens,Greece,9,9,12,30
+2004,Cuba,Athens,Greece,9,7,11,27
+2004,Hungary,Athens,Greece,8,6,3,17
+2004,Ukraine,Athens,Greece,8,5,9,22
+2004,Romania,Athens,Greece,8,5,6,19
+2004,Greece,Athens,Greece,6,6,4,16
+2004,Brazil,Athens,Greece,5,2,3,10
+2004,Norway,Athens,Greece,5,0,1,6
+2004,Netherlands,Athens,Greece,4,9,9,22
+2004,Sweden,Athens,Greece,4,2,1,7
+2004,Spain,Athens,Greece,3,11,6,20
+2004,Canada,Athens,Greece,3,6,3,12
+2004,Turkey,Athens,Greece,3,3,5,11
+2004,Poland,Athens,Greece,3,2,5,10
+2004,New Zealand,Athens,Greece,3,2,0,5
+2004,Thailand,Athens,Greece,3,1,4,8
+2004,Belarus,Athens,Greece,2,5,6,13
+2004,Austria,Athens,Greece,2,4,1,7
+2004,Ethiopia,Athens,Greece,2,3,2,7
+2004,Iran,Athens,Greece,2,2,2,6
+2004,Slovakia,Athens,Greece,2,2,2,6
+2004,Chinese Taipei,Athens,Greece,2,2,1,5
+2004,Georgia,Athens,Greece,2,2,0,4
+2004,Bulgaria,Athens,Greece,2,1,9,12
+2004,Denmark,Athens,Greece,2,1,5,8
+2004,Jamaica,Athens,Greece,2,1,2,5
+2004,Uzbekistan,Athens,Greece,2,1,2,5
+2004,Morocco,Athens,Greece,2,1,0,3
+2004,Argentina,Athens,Greece,2,0,4,6
+2004,Chile,Athens,Greece,2,0,1,3
+2004,Kazakhstan,Athens,Greece,1,4,3,8
+2004,Kenya,Athens,Greece,1,4,2,7
+2004,Czech Republic,Athens,Greece,1,3,5,9
+2004,South Africa,Athens,Greece,1,3,2,6
+2004,Croatia,Athens,Greece,1,2,2,5
+2004,Lithuania,Athens,Greece,1,2,0,3
+2004,Egypt,Athens,Greece,1,1,3,5
+2004,Switzerland,Athens,Greece,1,1,3,5
+2004,Indonesia,Athens,Greece,1,1,2,4
+2004,Zimbabwe,Athens,Greece,1,1,1,3
+2004,Azerbaijan,Athens,Greece,1,0,4,5
+2004,Belgium,Athens,Greece,1,0,2,3
+2004,Bahamas,Athens,Greece,1,0,1,2
+2004,Israel,Athens,Greece,1,0,1,2
+2004,Cameroon,Athens,Greece,1,0,0,1
+2004,Dominican Republic,Athens,Greece,1,0,0,1
+2004,United Arab Emirates,Athens,Greece,1,0,0,1
+2004,North Korea,Athens,Greece,0,4,1,5
+2004,Latvia,Athens,Greece,0,4,0,4
+2004,Mexico,Athens,Greece,0,3,1,4
+2004,Portugal,Athens,Greece,0,2,1,3
+2004,Finland,Athens,Greece,0,2,0,2
+2004,Serbia and Montenegro,Athens,Greece,0,2,0,2
+2004,Slovenia,Athens,Greece,0,1,3,4
+2004,Estonia,Athens,Greece,0,1,2,3
+2004,Hong Kong,Athens,Greece,0,1,0,1
+2004,India,Athens,Greece,0,1,0,1
+2004,Paraguay,Athens,Greece,0,1,0,1
+2004,Colombia,Athens,Greece,0,0,2,2
+2004,Nigeria,Athens,Greece,0,0,2,2
+2004,Venezuela,Athens,Greece,0,0,2,2
+2004,Eritrea,Athens,Greece,0,0,1,1
+2004,Mongolia,Athens,Greece,0,0,1,1
+2004,Syria,Athens,Greece,0,0,1,1
+2004,Trinidad and Tobago,Athens,Greece,0,0,1,1
+2000,United States,Sydney,Australia,37,24,32,93
+2000,Russia,Sydney,Australia,32,28,29,89
+2000,China,Sydney,Australia,28,16,14,58
+2000,Australia,Sydney,Australia,16,25,17,58
+2000,Germany,Sydney,Australia,13,17,26,56
+2000,France,Sydney,Australia,13,14,11,38
+2000,Italy,Sydney,Australia,13,8,13,34
+2000,Netherlands,Sydney,Australia,12,9,4,25
+2000,Cuba,Sydney,Australia,11,11,7,29
+2000,Great Britain,Sydney,Australia,11,10,7,28
+2000,Romania,Sydney,Australia,11,6,9,26
+2000,South Korea,Sydney,Australia,8,10,10,28
+2000,Hungary,Sydney,Australia,8,6,3,17
+2000,Poland,Sydney,Australia,6,5,3,14
+2000,Japan,Sydney,Australia,5,8,5,18
+2000,Bulgaria,Sydney,Australia,5,6,2,13
+2000,Greece,Sydney,Australia,4,6,3,13
+2000,Sweden,Sydney,Australia,4,5,3,12
+2000,Norway,Sydney,Australia,4,3,3,10
+2000,Ethiopia,Sydney,Australia,4,1,3,8
+2000,Ukraine,Sydney,Australia,3,10,10,23
+2000,Kazakhstan,Sydney,Australia,3,4,0,7
+2000,Belarus,Sydney,Australia,3,3,11,17
+2000,Canada,Sydney,Australia,3,3,8,14
+2000,Spain,Sydney,Australia,3,3,5,11
+2000,Turkey,Sydney,Australia,3,0,2,5
+2000,Iran,Sydney,Australia,3,0,1,4
+2000,Czech Republic,Sydney,Australia,2,3,3,8
+2000,Kenya,Sydney,Australia,2,3,2,7
+2000,Denmark,Sydney,Australia,2,3,1,6
+2000,Finland,Sydney,Australia,2,1,1,4
+2000,Austria,Sydney,Australia,2,1,0,3
+2000,Lithuania,Sydney,Australia,2,0,3,5
+2000,Azerbaijan,Sydney,Australia,2,0,1,3
+2000,Bahamas,Sydney,Australia,2,0,1,3
+2000,Slovenia,Sydney,Australia,2,0,0,2
+2000,Switzerland,Sydney,Australia,1,6,2,9
+2000,Indonesia,Sydney,Australia,1,3,2,6
+2000,Slovakia,Sydney,Australia,1,3,1,5
+2000,Mexico,Sydney,Australia,1,2,3,6
+2000,Nigeria,Sydney,Australia,1,2,0,3
+2000,Algeria,Sydney,Australia,1,1,3,5
+2000,Uzbekistan,Sydney,Australia,1,1,2,4
+2000,Latvia,Sydney,Australia,1,1,1,3
+2000,Yugoslavia,Sydney,Australia,1,1,1,3
+2000,New Zealand,Sydney,Australia,1,0,3,4
+2000,Estonia,Sydney,Australia,1,0,2,3
+2000,Thailand,Sydney,Australia,1,0,2,3
+2000,Croatia,Sydney,Australia,1,0,1,2
+2000,Cameroon,Sydney,Australia,1,0,0,1
+2000,Colombia,Sydney,Australia,1,0,0,1
+2000,Mozambique,Sydney,Australia,1,0,0,1
+2000,Brazil,Sydney,Australia,0,6,6,12
+2000,Jamaica,Sydney,Australia,0,6,3,9
+2000,Belgium,Sydney,Australia,0,2,3,5
+2000,South Africa,Sydney,Australia,0,2,3,5
+2000,Argentina,Sydney,Australia,0,2,2,4
+2000,Chinese Taipei,Sydney,Australia,0,1,4,5
+2000,Morocco,Sydney,Australia,0,1,4,5
+2000,North Korea,Sydney,Australia,0,1,3,4
+2000,Moldova,Sydney,Australia,0,1,1,2
+2000,Saudi Arabia,Sydney,Australia,0,1,1,2
+2000,Trinidad and Tobago,Sydney,Australia,0,1,1,2
+2000,Ireland,Sydney,Australia,0,1,0,1
+2000,Sri Lanka,Sydney,Australia,0,1,0,1
+2000,Uruguay,Sydney,Australia,0,1,0,1
+2000,Vietnam,Sydney,Australia,0,1,0,1
+2000,Georgia,Sydney,Australia,0,0,6,6
+2000,Costa Rica,Sydney,Australia,0,0,2,2
+2000,Portugal,Sydney,Australia,0,0,2,2
+2000,Armenia,Sydney,Australia,0,0,1,1
+2000,Barbados,Sydney,Australia,0,0,1,1
+2000,Chile,Sydney,Australia,0,0,1,1
+2000,Iceland,Sydney,Australia,0,0,1,1
+2000,India,Sydney,Australia,0,0,1,1
+2000,Israel,Sydney,Australia,0,0,1,1
+2000,Kuwait,Sydney,Australia,0,0,1,1
+2000,Kyrgyzstan,Sydney,Australia,0,0,1,1
+2000,Macedonia,Sydney,Australia,0,0,1,1
+2000,Qatar,Sydney,Australia,0,0,1,1
